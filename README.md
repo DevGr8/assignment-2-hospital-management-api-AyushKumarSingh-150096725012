@@ -296,4 +296,4 @@ The project can be extended with:
 
 ## Author
 
-Created as a Hospital Management System project using the MERN stack.
+Ayush Kumar Singh
